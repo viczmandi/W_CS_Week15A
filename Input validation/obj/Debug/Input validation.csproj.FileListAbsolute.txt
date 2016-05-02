@@ -1,0 +1,9 @@
+C:\Users\herczkumihalybalazs\Documents\Visual Studio 2015\Projects\Practise\W_CSHARP_Week-15A\Input validation\bin\Debug\Input validation.exe.config
+C:\Users\herczkumihalybalazs\Documents\Visual Studio 2015\Projects\Practise\W_CSHARP_Week-15A\Input validation\bin\Debug\Input validation.exe
+C:\Users\herczkumihalybalazs\Documents\Visual Studio 2015\Projects\Practise\W_CSHARP_Week-15A\Input validation\bin\Debug\Input validation.pdb
+C:\Users\herczkumihalybalazs\Documents\Visual Studio 2015\Projects\Practise\W_CSHARP_Week-15A\Input validation\obj\Debug\Input validation.csprojResolveAssemblyReference.cache
+C:\Users\herczkumihalybalazs\Documents\Visual Studio 2015\Projects\Practise\W_CSHARP_Week-15A\Input validation\obj\Debug\Input_validation.Form1.resources
+C:\Users\herczkumihalybalazs\Documents\Visual Studio 2015\Projects\Practise\W_CSHARP_Week-15A\Input validation\obj\Debug\Input_validation.Properties.Resources.resources
+C:\Users\herczkumihalybalazs\Documents\Visual Studio 2015\Projects\Practise\W_CSHARP_Week-15A\Input validation\obj\Debug\Input validation.csproj.GenerateResource.Cache
+C:\Users\herczkumihalybalazs\Documents\Visual Studio 2015\Projects\Practise\W_CSHARP_Week-15A\Input validation\obj\Debug\Input validation.exe
+C:\Users\herczkumihalybalazs\Documents\Visual Studio 2015\Projects\Practise\W_CSHARP_Week-15A\Input validation\obj\Debug\Input validation.pdb

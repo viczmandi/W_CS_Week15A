@@ -1,0 +1,11 @@
+C:\Users\herczkumihalybalazs\Documents\Visual Studio 2015\Projects\Practise\W_CSHARP_Week-15A\ConvertUTF7\bin\Debug\ConvertUTF7.exe.config
+C:\Users\herczkumihalybalazs\Documents\Visual Studio 2015\Projects\Practise\W_CSHARP_Week-15A\ConvertUTF7\bin\Debug\ConvertUTF7.exe
+C:\Users\herczkumihalybalazs\Documents\Visual Studio 2015\Projects\Practise\W_CSHARP_Week-15A\ConvertUTF7\bin\Debug\ConvertUTF7.pdb
+C:\Users\herczkumihalybalazs\Documents\Visual Studio 2015\Projects\Practise\W_CSHARP_Week-15A\ConvertUTF7\obj\Debug\ConvertUTF7.exe
+C:\Users\herczkumihalybalazs\Documents\Visual Studio 2015\Projects\Practise\W_CSHARP_Week-15A\ConvertUTF7\obj\Debug\ConvertUTF7.pdb
+C:\Users\viczmandni\Downloads\W_CSHARP_Week-15A-master\W_CSHARP_Week-15A\ConvertUTF7\bin\Debug\ConvertUTF7.exe.config
+C:\Users\viczmandni\Downloads\W_CSHARP_Week-15A-master\W_CSHARP_Week-15A\ConvertUTF7\obj\Debug\ConvertUTF7.exe
+C:\Users\viczmandni\Downloads\W_CSHARP_Week-15A-master\W_CSHARP_Week-15A\ConvertUTF7\obj\Debug\ConvertUTF7.pdb
+C:\Users\viczmandni\Documents\Visual Studio 2015\Projects\W_CSHARP_Week-15A-master\W_CSHARP_Week-15A\ConvertUTF7\bin\Debug\ConvertUTF7.exe.config
+C:\Users\viczmandni\Documents\Visual Studio 2015\Projects\W_CSHARP_Week-15A-master\W_CSHARP_Week-15A\ConvertUTF7\obj\Debug\ConvertUTF7.exe
+C:\Users\viczmandni\Documents\Visual Studio 2015\Projects\W_CSHARP_Week-15A-master\W_CSHARP_Week-15A\ConvertUTF7\obj\Debug\ConvertUTF7.pdb
